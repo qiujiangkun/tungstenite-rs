@@ -1,4 +1,5 @@
 use bytes::Buf;
+#[allow(unused_imports)]
 use log::*;
 use std::io::{Cursor, Read, Write};
 

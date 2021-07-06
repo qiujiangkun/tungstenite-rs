@@ -1,4 +1,5 @@
 use byteorder::{ByteOrder, NetworkEndian, ReadBytesExt, WriteBytesExt};
+#[allow(unused_imports)]
 use log::*;
 use std::{
     borrow::Cow,
